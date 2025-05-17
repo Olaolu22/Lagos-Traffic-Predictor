@@ -83,7 +83,7 @@ with st.form("prediction_form"):
     is_weekend = st.checkbox("Is it a weekend?")
     weather = st.selectbox("🌤 Weather Condition", weather_options)
     day_of_week = st.selectbox("📅 Day of Week", day_options)
-    hour_input = st.number_input("⏰Time(0-12) e.g 6 for (6:00 - 6:59)", min_value=0, max_value=12, value=8)
+    hour_input = st.number_input("⏰Time(0-12)", min_value=0, max_value=12, value=8)
     am_pm = st.selectbox("AM / PM", ampm_options)
     
 
