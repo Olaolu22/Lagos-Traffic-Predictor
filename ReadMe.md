@@ -2,6 +2,10 @@
 [Click here](https://lagos-traffic.streamlit.app) to access the app
 
 Or copy this link, and open in another page: https://lagos-traffic.streamlit.app
+
+[The ipynb notebook is also here](https://colab.research.google.com/drive/1FgS-DdIIvehf8PTx6erTB1TlxMLk3LG4#scrollTo=2Y6bFySxVLg9)
+
+You can as well copy this link: https://colab.research.google.com/drive/1FgS-DdIIvehf8PTx6erTB1TlxMLk3LG4#scrollTo=2Y6bFySxVLg9
 ## Overview
 
 As a resident of Lagos, Nigeria's bustling economic hub, I and quite a number of other people have often found ourselves stuck in traffic, wasting time and fuel. Recognising the effect on traffic congestion on productivity, safety, and overall quality of life, I decided to leverage the skills i've garnered so far to try and solve this problem.
