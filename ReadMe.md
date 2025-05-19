@@ -1,4 +1,7 @@
 #  Lagos Traffic Congestion Predictor
+[Click here](https://lagos-traffic.streamlit.app) to access the app
+
+Or copy this link, and open in another page: https://lagos-traffic.streamlit.app
 ## Overview
 
 As a resident of Lagos, Nigeria's bustling economic hub, I and quite a number of other people have often found ourselves stuck in traffic, wasting time and fuel. Recognising the effect on traffic congestion on productivity, safety, and overall quality of life, I decided to leverage the skills i've garnered so far to try and solve this problem.
@@ -84,6 +87,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
+Link to app: https://lagos-traffic.streamlit.app
 ### Author
 Built by **Olaoluwa**
 
